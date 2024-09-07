@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/beboto_10" target="blank"><img src="https://img.shields.io/twitter/follow/beboto_10?logo=twitter&style=for-the-badge" alt="beboto_10" /></a> </p>
 
-- 🔭 I’m currently working on **Plant Disease Detection Using SqueezeNet**
+- 🔭 I’m currently working on **Plant Disease Detection Using SqueezeNet Model**
 
 - 🌱 I’m currently learning **Machine Learning**
 
