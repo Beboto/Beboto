@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/beboto-ghosh)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.linkedin.com/in/beboto-ghosh)
 
 <h1 align="center">Hi 👋, I'm Beboto</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beboto&show_icons=true&locale=en" alt="beboto" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beboto&" alt="beboto" /></p>
