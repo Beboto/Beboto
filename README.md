@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beboto&label=Profile%20views&color=0e75b6&style=flat" alt="beboto" /> </p>
 
-- 🔭 I’m currently working on **Plant Disease Detection Using SqueezeNet Model**
+- 🔭 I’m currently working on **Full stack development projects**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Front-end Web Development, Machine Learning**
+- 💬 Ask me about **Web Development, Machine Learning**
 
 - 📫 How to reach me **bebotoghosh10@gmail.com**
 
